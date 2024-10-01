@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
 </div>
 
-C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions. It has found lasting use in applications previously coded in assembly language. Such applications include operating systems and various application software for computer architectures that range from supercomputers to PLCs and embedded systems.
+C programming is fundamental to computer science. This Skill Tree presents a systematic approach to learning C language. Ideal for programming beginners, it offers a clear roadmap to understand memory management, pointers, and system-level programming. Hands-on, non-video courses and coding exercises in an interactive C language playground ensure you develop practical skills in writing efficient C programs.
 
 |   Index | Name                                                                    | Level   | Repo                                                          | Course Link                                               |
 |---------|-------------------------------------------------------------------------|---------|---------------------------------------------------------------|-----------------------------------------------------------|
@@ -15,15 +15,15 @@ C is a general-purpose, procedural computer programming language supporting stru
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
