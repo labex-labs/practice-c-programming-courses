@@ -12,8 +12,8 @@ C 프로그래밍은 컴퓨터 과학의 초석입니다. 이 스킬 트리는 C
 
 |   인덱스 | 이름                                                                                  | 난이도   | Repo                                                                 | 연습                                                                    |
 |----------|---------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------|-------------------------------------------------------------------------|
-|        1 | [초보자를 위한 C 프로그래밍](https://labex.io/ko/courses/c-programming-for-beginners) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 실습 시작](https://labex.io/ko/courses/c-programming-for-beginners) |
-|        2 | [C 언어 퀵 스타트](https://labex.io/ko/courses/quick-start-with-c)                    | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-c)          |
+|        1 | [초보자를 위한 C 프로그래밍](https://labex.io/ko/courses/c-programming-for-beginners) | 초급     | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 실습 시작](https://labex.io/ko/courses/c-programming-for-beginners) |
+|        2 | [C 언어 퀵 스타트](https://labex.io/ko/courses/quick-start-with-c)                    | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-c)          |
 
 ## 더 보기
 
