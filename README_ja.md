@@ -12,8 +12,8 @@ C プログラミングはコンピュータサイエンスの基礎です。こ
 
 |   インデックス | 名前                                                                                       | 難易度   | Repo                                                                 | 練習                                                                     |
 |----------------|--------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------|--------------------------------------------------------------------------|
-|              1 | [初心者向け C 言語プログラミング](https://labex.io/ja/courses/c-programming-for-beginners) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 ラボを開始](https://labex.io/ja/courses/c-programming-for-beginners) |
-|              2 | [C 言語のクイックスタート](https://labex.io/ja/courses/quick-start-with-c)                 | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-c)          |
+|              1 | [初心者向け C 言語プログラミング](https://labex.io/ja/courses/c-programming-for-beginners) | 初級     | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 ラボを開始](https://labex.io/ja/courses/c-programming-for-beginners) |
+|              2 | [C 言語のクイックスタート](https://labex.io/ja/courses/quick-start-with-c)                 | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-c)          |
 
 ## その他
 
