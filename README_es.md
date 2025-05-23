@@ -12,8 +12,8 @@ La programación en C es la base de la informática. Este Skill Tree ofrece una 
 
 |   Índice | Nombre                                                                                          | Dificultad   | Repo                                                                 | Práctica                                                                          |
 |----------|-------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-|        1 | [Programación en C para Principiantes](https://labex.io/es/courses/c-programming-for-beginners) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/c-programming-for-beginners) |
-|        2 | [Inicio rápido con C](https://labex.io/es/courses/quick-start-with-c)                           | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-c)          |
+|        1 | [Programación en C para Principiantes](https://labex.io/es/courses/c-programming-for-beginners) | Principiante | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/c-programming-for-beginners) |
+|        2 | [Inicio rápido con C](https://labex.io/es/courses/quick-start-with-c)                           | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-c)          |
 
 ## Más
 
