@@ -12,8 +12,8 @@ C 语言编程是计算机科学的基石。本技能树为学习 C 语言提供
 
 |   序号 | 名称                                                                      | 难度   | Repo                                                                 | 练习                                                                   |
 |--------|---------------------------------------------------------------------------|--------|----------------------------------------------------------------------|------------------------------------------------------------------------|
-|      1 | [C 语言编程入门](https://labex.io/zh/courses/c-programming-for-beginners) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 开始实验](https://labex.io/zh/courses/c-programming-for-beginners) |
-|      2 | [C 语言快速入门](https://labex.io/zh/courses/quick-start-with-c)          | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-c)          |
+|      1 | [C 语言编程入门](https://labex.io/zh/courses/c-programming-for-beginners) | 初级   | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 开始实验](https://labex.io/zh/courses/c-programming-for-beginners) |
+|      2 | [C 语言快速入门](https://labex.io/zh/courses/quick-start-with-c)          | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-c)          |
 
 ## 更多
 
