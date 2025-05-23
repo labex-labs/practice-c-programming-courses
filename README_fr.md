@@ -12,8 +12,8 @@ La programmation en C est la pierre angulaire de l'informatique. Cet arbre de co
 
 |   Index | Nom                                                                                              | Difficulté   | Repo                                                                 | Pratique                                                                       |
 |---------|--------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|       1 | [Programmation en C pour les débutants](https://labex.io/fr/courses/c-programming-for-beginners) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Commencer le Lab](https://labex.io/fr/courses/c-programming-for-beginners) |
-|       2 | [Démarrage rapide avec le langage C](https://labex.io/fr/courses/quick-start-with-c)             | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-c)          |
+|       1 | [Programmation en C pour les débutants](https://labex.io/fr/courses/c-programming-for-beginners) | Débutant     | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Commencer le Lab](https://labex.io/fr/courses/c-programming-for-beginners) |
+|       2 | [Démarrage rapide avec le langage C](https://labex.io/fr/courses/quick-start-with-c)             | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-c)          |
 
 ## Plus
 
