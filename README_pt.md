@@ -12,8 +12,8 @@ A linguagem C é a base da ciência da computação. Esta Skill Tree oferece uma
 
 |   Índice | Nome                                                                                     | Dificuldade   | Repo                                                                 | Prática                                                                   |
 |----------|------------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------|---------------------------------------------------------------------------|
-|        1 | [Programação C para Iniciantes](https://labex.io/pt/courses/c-programming-for-beginners) | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Iniciar Lab](https://labex.io/pt/courses/c-programming-for-beginners) |
-|        2 | [Início Rápido com C](https://labex.io/pt/courses/quick-start-with-c)                    | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-c)          |
+|        1 | [Programação C para Iniciantes](https://labex.io/pt/courses/c-programming-for-beginners) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Iniciar Lab](https://labex.io/pt/courses/c-programming-for-beginners) |
+|        2 | [Início Rápido com C](https://labex.io/pt/courses/quick-start-with-c)                    | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-c)          |
 
 ## Mais
 
