@@ -12,8 +12,8 @@ C programming is the cornerstone of computer science. This Skill Tree provides a
 
 |   Index | Name                                                                                | Difficulty   | Repo                                                                 | Practice                                                             |
 |---------|-------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-|       1 | [C Programming for Beginners](https://labex.io/courses/c-programming-for-beginners) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Start Lab](https://labex.io/courses/c-programming-for-beginners) |
-|       2 | [Quick Start with C](https://labex.io/courses/quick-start-with-c)                   | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Start Lab](https://labex.io/courses/quick-start-with-c)          |
+|       1 | [C Programming for Beginners](https://labex.io/courses/c-programming-for-beginners) | Beginner     | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Start Lab](https://labex.io/courses/c-programming-for-beginners) |
+|       2 | [Quick Start with C](https://labex.io/courses/quick-start-with-c)                   | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Start Lab](https://labex.io/courses/quick-start-with-c)          |
 
 ## More
 
