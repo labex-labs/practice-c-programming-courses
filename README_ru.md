@@ -12,8 +12,8 @@
 
 |   Индекс | Название                                                                                              | Сложность   | Repo                                                                 | Практика                                                                         |
 |----------|-------------------------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|        1 | [Программирование на языке C для начинающих](https://labex.io/ru/courses/c-programming-for-beginners) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/c-programming-for-beginners) |
-|        2 | [Быстрый старт в программировании на языке C](https://labex.io/ru/courses/quick-start-with-c)         | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-c)          |
+|        1 | [Программирование на языке C для начинающих](https://labex.io/ru/courses/c-programming-for-beginners) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/c-programming-for-beginners) |
+|        2 | [Быстрый старт в программировании на языке C](https://labex.io/ru/courses/quick-start-with-c)         | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-c)          |
 
 ## Больше
 
