@@ -8,12 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
 </div>
 
-La programación en C es la base de la informática. Este Skill Tree ofrece una forma sistemática de aprender el lenguaje C. Es ideal para principiantes en programación, proporcionando un camino claro para comprender la gestión de memoria, punteros y programación a nivel de sistema. Cursos prácticos sin video y ejercicios de codificación en un entorno interactivo de lenguaje C te ayudarán a desarrollar habilidades prácticas en la escritura de programas eficientes en C.
+Aprende programación en C, la piedra angular de la informática, con esta ruta de aprendizaje estructurada diseñada para principiantes. Esta colección de cursos de C proporciona una hoja de ruta sistemática para dominar el lenguaje C, cubriendo conceptos fundamentales como la gestión de memoria, punteros y programación a nivel de sistema. Desarrolla habilidades prácticas escribiendo programas C eficientes a través de ejercicios prácticos sin vídeo en un entorno interactivo de C.
 
 |   Índice | Nombre                                                                                          | Dificultad   | Repo                                                                 | Práctica                                                                          |
 |----------|-------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 |        1 | [Programación en C para Principiantes](https://labex.io/es/courses/c-programming-for-beginners) | Principiante | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/c-programming-for-beginners) |
-|        2 | [Inicio rápido con C](https://labex.io/es/courses/quick-start-with-c)                           | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-c)          |
 
 ## Más
 
