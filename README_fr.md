@@ -8,12 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
 </div>
 
-La programmation en C est la pierre angulaire de l'informatique. Cet arbre de compétences offre une méthode systématique pour apprendre le langage C. Il est idéal pour les débutants en programmation, proposant un parcours clair pour comprendre la gestion de la mémoire, les pointeurs et la programmation au niveau système. Des cours pratiques sans vidéo et des exercices de codage dans un environnement interactif de langage C vous aident à développer des compétences pratiques pour écrire des programmes C efficaces.
+Apprenez la programmation C, une pierre angulaire de l'informatique, grâce à ce parcours d'apprentissage structuré conçu pour les débutants. Cette collection de cours de C offre une feuille de route systématique pour maîtriser le langage C, couvrant des concepts fondamentaux comme la gestion de la mémoire, les pointeurs et la programmation de bas niveau. Développez des compétences pratiques en écrivant des programmes C efficaces grâce à des exercices pratiques non vidéo dans un environnement interactif de programmation C.
 
 |   Index | Nom                                                                                              | Difficulté   | Repo                                                                 | Pratique                                                                       |
 |---------|--------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------|
 |       1 | [Programmation en C pour les débutants](https://labex.io/fr/courses/c-programming-for-beginners) | Débutant     | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Commencer le Lab](https://labex.io/fr/courses/c-programming-for-beginners) |
-|       2 | [Démarrage rapide avec le langage C](https://labex.io/fr/courses/quick-start-with-c)             | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-c)          |
 
 ## Plus
 
