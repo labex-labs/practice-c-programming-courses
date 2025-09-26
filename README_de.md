@@ -8,12 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
 </div>
 
-C-Programmierung ist das Fundament der Informatik. Dieser Skill Tree bietet einen systematischen Ansatz zum Erlernen der C-Sprache. Er eignet sich hervorragend für Programmieranfänger und bietet einen klaren Weg, um Speicherverwaltung, Zeiger und systemnahe Programmierung zu verstehen. Praktische, nicht-videobasierte Kurse und Programmierübungen in einem interaktiven C-Spieleplatz helfen Ihnen, praktische Fähigkeiten zum Schreiben effizienter C-Programme zu entwickeln.
+Lernen Sie C-Programmierung, einen Eckpfeiler der Informatik, mit diesem strukturierten Lernpfad, der für Anfänger konzipiert ist. Diese Sammlung von C-Kursen bietet einen systematischen Fahrplan zur Beherrschung der C-Sprache, der grundlegende Konzepte wie Speicherverwaltung, Zeiger und Systemprogrammierung abdeckt. Entwickeln Sie praktische Fähigkeiten, indem Sie effiziente C-Programme durch praktische, nicht-video-basierte Übungen in einer interaktiven C-Sprach-Spielumgebung schreiben.
 
 |   Index | Name                                                                                     | Schwierigkeit   | Repo                                                                 | Übung                                                                       |
 |---------|------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
 |       1 | [C-Programmierung für Anfänger](https://labex.io/de/courses/c-programming-for-beginners) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/c-programming-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/c-programming-for-beginners) |
-|       2 | [Schnellstart mit C](https://labex.io/de/courses/quick-start-with-c)                     | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-c)          | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-c)          |
 
 ## Mehr
 
